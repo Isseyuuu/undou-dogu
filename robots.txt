@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isseyuuu.github.io/undou-dogu/sitemap.xml
